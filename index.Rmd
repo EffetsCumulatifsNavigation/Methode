@@ -26,6 +26,6 @@ cover-image: images/cover.jpg -->
 bookdown::render_book("index.Rmd", "bookdown::gitbook")
 -->
 
-# Glossaire {-}
+# Préambule {-}
 
 ***À écrire***

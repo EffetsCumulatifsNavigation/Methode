@@ -1,3 +1,4 @@
+output_dir: "docs"
 bookdown::gitbook:
   dev: svglite
   css: css/style.css
