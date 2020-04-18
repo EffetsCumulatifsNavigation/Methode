@@ -1,0 +1,31 @@
+---
+title: "Effets cumulatifs des activités maritimes"
+subtitle: "Présentation du mandat et de l'approche méthodologique"
+author: "David Beauchesne, Cindy Grant, Philippe Archambault"
+date: "`r Sys.Date()`"
+knit: "bookdown::render_book"
+documentclass: krantz
+bibliography: [TC.bib]
+biblio-style: apalike
+link-citations: yes
+colorlinks: yes
+lot: yes
+lof: yes
+fontsize: 12pt
+monofont: "Source Code Pro"
+monofontoptions: "Scale=0.7"
+site: bookdown::bookdown_site
+---
+
+<!-- description: "TO WRITE"
+url: 'https\://bookdown.org/yihui/bookdown/'
+github-repo: rstudio/bookdown
+cover-image: images/cover.jpg -->
+
+<!--
+bookdown::render_book("index.Rmd", "bookdown::gitbook")
+-->
+
+# Glossaire {-}
+
+***À écrire***
