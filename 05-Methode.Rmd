@@ -67,6 +67,13 @@ Tableau 1. Liste des activités maritimes identifiées pour l'étude pilote sur 
 
 
 
+
+<p>Voici un exemple tiré de nos travaux de recherche: </p>
+<div id="wrap">
+<iframe id="frame" src="https://david-beauchesne.shinyapps.io/edriversapp/"></iframe>
+</div>
+
+
 ### Composantes valorisées
 
 Les composantes valorisées -- *c.-à-d.* les composantes biologiques, environnementales, culturelles ou socioéconomiques sur lesquelles l'analyse d'effets cumulatifs est effectuée -- ont été identifiées au préalable lors d'activités de concertation et d'ateliers de travail avec des experts du milieu (Tableau 2). Les composantes valorisées ont été sélectionnées séparément pour le tronçon fluvial (Montréal à la rivière Saguenay) et maritime (rivière Saguenay et l'estuaire) du Saint-Laurent. La liste des composantes valorisées identifiée sera utilisée pour ce rapport et nous recenserons les données disponibles nous permettant d'en effectuer une caractérisation spatiale au sein de l'aire à l'étude. Tout comme pour les sources de stress environnementaux, les composantes valorisées seront individuellement caractérisées selon une méthodologie appropriée et intégrées au sein d'une base de données intégrative couvrant la zone à l'étude. Les méthodologies décrivant les composantes valorisées dépendront de la disponibilité des données et des composantes valorisées spécifiques. Les méthodologies devront donc être décrites plus tard dans le processus. De plus, la caractérisation des composantes valorisées sera effectuée selon la disponibilité des données et en permettant à l'équipe de respecter les échéances du contrat. Il s'agit d'une importante liste de composantes valorisées pour ce type d'analyse et il est possible qu'elles ne puissent toutes être considérées.

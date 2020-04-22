@@ -19,7 +19,7 @@ link-citations: yes
 ---
 
 <!--
-rmarkdown::render('./Rapport/Document_Methode/Document_Methode.md', 'pdf_document')
+rmarkdown::render('./Document_Methode.md', 'pdf_document')
 rmarkdown::render('./Rapport/Document_Methode/Document_Methode.md', 'word_document')
 -->
 
