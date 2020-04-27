@@ -70,8 +70,7 @@ reliées aux activités maritime au sein de la zone d'étude est l'un des élém
 les plus importants afin de dresser le portrait de la zone d'étude pour une
 évaluation d'effets cumulatifs.
 Les activités maritimes et les facteurs de stress qui en découlent ont été
-identifiés à travers divers processus de mobilisation organisés par l’équipe de
-Transports Canada.
+identifiés à travers divers processus de mobilisation.
 La liste identifiée est reprise pour ce rapport et nous recenserons les données
 disponibles nous permettant de caractériser les facteurs de stress environnementaux
 provenant des activités maritimes (Tableau 1).
@@ -116,7 +115,7 @@ de l'estuaire et du golfe du Saint-Laurent:
 
 ### Composantes valorisées {#cv}
 
-Caractériser les composantes valorisées, *c.-à-d.* les éléments sur lesquels
+Les composantes valorisées, *c.-à-d.* les éléments sur lesquels
 l'analyse d'effets cumulatifs est effectuée -- ont été identifiées au préalable
 lors d’activités de concertation et d’ateliers de travail avec des experts du
 milieu, des représentants autochtones et multiple parties prenantes.
@@ -149,10 +148,10 @@ les effets cumulatifs des activités maritimes au sein du Saint-Laurent.
 Tout comme pour les sources de stress environnementaux, les composantes
 valorisées seront caractérisées individuellement. Par exemple, les habitats
 fauniques et floristiques pourraient être délimités en fonction de connaissances
-les habitats essentiels pour les poissons dans la zone d'étude et par la distribution
-connue d'espèces en péril; les mammifères marins pourraient être caractérisés
-selon la distribution des populations ou selon les milieux d'importance pour leur
-alimentation.
+sur les habitats essentiels pour les poissons dans la zone d'étude et par la
+distribution connue d'espèces en péril; les mammifères marins pourraient être
+caractérisés selon la distribution des populations ou selon les milieux
+d'importance pour leur alimentation.
 Les données et approches spécifiques utilisées dépendront de la qualité et de la
 disponibilité des données existantes.
 Au terme de la caractérisation individuelle, les composantes valorisées
@@ -371,9 +370,9 @@ caractérisés, limitant ainsi les conclusions temporelles que nous pourrions en
 tirer.
 
 - La disponibilité des données guidera le travail que nous pouvons accomplir
-pour ce projet pilote. Le contexte de l'étude empêche l'équipe de l'Université
-Laval d'effectuer une collecte de données nouvelles. Le portrait établi
-représentera ainsi une veille des connaissances actuelles permettant de
+pour ce projet pilote. Le contexte de l'étude ne permet pas à l'équipe de
+l'Université Laval d'effectuer une collecte de données nouvelles. Le portrait
+établi représentera ainsi une veille des connaissances actuelles permettant de
 caractériser les facteurs de stress des activités maritime ainsi que les
 composantes valorisées identifiées. Advenant la disponibilité de nouvelles
 données en cours de projet, l'équipe de l'Université Laval pourra les considérer,
@@ -384,5 +383,5 @@ du contrat.
 pressions environnementales au sein de la zone d'étude. Par exemple, la qualité
 de l'eau est assurément influencée par les activités en milieu terrestre et le
 lessivage des terres agricoles par les embouchures de rivière. Par contre, la
- présente étude ne se concentrera que sur les facteurs de stress issus des
- activités maritimes.
+présente étude ne se concentrera que sur les facteurs de stress issus des
+activités maritimes.
