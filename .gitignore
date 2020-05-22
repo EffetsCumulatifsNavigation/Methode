@@ -34,3 +34,5 @@ vignettes/*.pdf
 
 # Files to ignore
 .DS_Store
+
+_notes.md
