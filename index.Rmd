@@ -24,6 +24,17 @@ cover-image: images/cover.jpg -->
 
 <!--
 bookdown::render_book("index.Rmd", "bookdown::gitbook")
+
+gitbook:
+    Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::gitbook')"
+
+epub:
+    Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::epub_book')"
+
+pdf:
+    Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::pdf_book')"
+
+# pdf to be added
 -->
 
 # Contexte
