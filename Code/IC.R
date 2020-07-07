@@ -2,24 +2,24 @@
 library(raster)
 library(graphicsutils)
 
-# random <- function(cont = TRUE) {
-#   m <- secr::make.mask(nx = 100, ny = 100, spacing = 20)
-#   h <- secr::randomHabitat(m, p = 0.5, A = 0.3)
-#   r <- secr::raster(h)
-#
-#   if (cont) {
-#     r <- r * rnorm(length(r), 1, .2)
-#     r <- r / maxValue(r)
-#     return(r)
-#   }
-#
-#   if (!cont) {
-#     return(r)
-#   }
-# }
-#
-# s <- stack(list(s1 = random(), s2 = random(), s3 = random()))
-# h <- stack(list(h1 = random(F), h2 = random(F), h3 = random(F)))
+random <- function(cont = TRUE) {
+  m <- secr::make.mask(nx = 100, ny = 100, spacing = 20)
+  h <- secr::randomHabitat(m, p = 0.5, A = 0.3)
+  r <- secr::raster(h)
+
+  if (cont) {
+    r <- r * rnorm(length(r), 1, .2)
+    r <- r / maxValue(r)
+    return(r)
+  }
+
+  if (!cont) {
+    return(r)
+  }
+}
+
+s <- stack(list(s1 = random(), s2 = random(), s3 = random()))
+h <- stack(list(h1 = random(F), h2 = random(F), h3 = random(F)))
 
 cols <- c("#ffffff","#C7CBCE", "#96A3A3", "#687677", "#222D3D", "#25364A", "#C77F20", "#E69831", "#E3AF16", "#E4BE29", "#F2EA8B")
 pal <- colorRampPalette(cols)
